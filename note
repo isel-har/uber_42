@@ -1,0 +1,24 @@
+missing values
+constant frequency
+
+anomlay detection
+replace anomalies
+
+
+Box-cox transformation (assumes positive values)
+
+stationary data/difference (stationarity)
+
+
+ACF
+PACF
+
+train/test split
+
+naive averages global average
+moving averages different window
+exponential smoothing (simple, Holt’s Linear, Holt-winters)
+ARIMA
+
+AIC 
+Mean absolute error
