@@ -1,24 +1,8 @@
-missing values
-constant frequency
+Dedicated ML frameworks
 
-anomlay detection
-replace anomalies
-
-
-Box-cox transformation (assumes positive values)
-
-stationary data/difference (stationarity)
+optuna: Hyper parameters optimization and tuning.
+feature-engine : Feature engineering and preprocessing.
+Deepchecks : Validating machine learning models and data pipelines.
 
 
-ACF
-PACF
-
-train/test split
-
-naive averages global average
-moving averages different window
-exponential smoothing (simple, Holt’s Linear, Holt-winters)
-ARIMA
-
-AIC 
-Mean absolute error
+#sklearn alternatives
